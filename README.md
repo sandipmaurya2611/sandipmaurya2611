@@ -1,11 +1,13 @@
  <h1 align="center">Hi 👋, I'm Sandip Maurya</h1>
 
-- 🔭 I’m currently working on MERN Stack Developer, PHP, Python developer.
+- 🔭 I’m currently working on<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MERN Stack Developer, PHP, Python developer.
 - 🌱 I’m currently learning AWS
 - 💬 Ask me anything about MERN Stack and PHP 
 - 📫 How to reach me: mauryasandip4you@gmail.com
 - 😄 My website: 
 - ⚡ Fun fact: I'm coming to teen
+
+
   
 ### Connect with me:
 <div id="badges">
@@ -28,9 +30,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongodb,nodejs,php,react,git,github)](https://skillicons.dev)
 
-![Sandip Maurya GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipmaurya2611&show_icons=true&theme=dark)
+![My Skills](https://github-readme-streak-stats.herokuapp.com/?user=sandipmaurya2611)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipmaurya2611&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipmaurya2611&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br>
