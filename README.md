@@ -27,7 +27,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongodb,nodejs,php,react,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongodb,mysql,nodejs,php,react,git,github)](https://skillicons.dev)
 
 ![My Skills](https://github-readme-streak-stats.herokuapp.com/?user=sandipmaurya2611)]
 
