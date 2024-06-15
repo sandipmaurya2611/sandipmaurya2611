@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Sandip Maurya</h1>
 
 - 🔭 I’m currently working on<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MERN Stack Developer, PHP, Python developer.
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS.
 - 💬 Ask me anything about MERN Stack and PHP 
 - 📫 How to reach me: mauryasandip4you@gmail.com
 - ⚡ Fun fact: I'm coming to teen
