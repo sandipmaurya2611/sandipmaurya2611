@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AWS.
 - 💬 Ask me anything about MERN Stack and PHP.
 - 📫 How to reach me: mauryasandip4you@gmail.com
-- ⚡ Fun fact: I'm coming to teen
+- ⚡ Fun fact: I'm coming to teen.
 
 
   
