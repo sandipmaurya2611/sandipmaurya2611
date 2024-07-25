@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Sandip Maurya</h1>
+ <h1 align="center">Hi 👋, I'm Sandip Maurya.</h1>
 
 - 🔭 I’m currently working on<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MERN Stack Developer, PHP, Python developer.
 - 🌱 I’m currently learning AWS.
